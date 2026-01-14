@@ -4,12 +4,12 @@
   <img
     src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"
     alt="gif1"
-    height="300"
+    height="330"
   />
   <img
     src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif"
     alt="gif2"
-    height="300"
+    height="330"
   />
 </div>
 
