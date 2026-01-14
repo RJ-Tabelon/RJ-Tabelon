@@ -4,12 +4,12 @@
   <img
     src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"
     alt="gif1"
-    height="200"
+    height="250"
   />
   <img
     src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif"
     alt="gif2"
-    height="200"
+    height="250"
   />
 </div>
 
@@ -75,9 +75,9 @@ Feel free to reach out if you want to connect, collaborate, or just chat about t
 # GitHub Overview
 
 <div align="left">
-  <img height="105em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RJ-Tabelon&show_icons=true&bg_color=516385&title_color=001f26&icon_color=2e4764&text_color=2a4059&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RJ-Tabelon&show_icons=true&bg_color=516385&title_color=001f26&icon_color=2e4764&text_color=2a4059&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
   <img
-    height="105em"
+    height="150em"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RJ-Tabelon&layout=compact&bg_color=477054&title_color=152219&text_color=152219&hide_border=true&border_radius=20"
     alt="Top Languages"
   />
