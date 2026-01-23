@@ -51,7 +51,7 @@ Feel free to reach out if you want to connect, collaborate, or just chat about t
 
 ![React](https://img.shields.io/badge/react-%235b7397.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%232d4f55.svg?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%235f6f8c.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231b6f6b.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools
