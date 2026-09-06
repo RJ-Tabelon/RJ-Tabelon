@@ -15,11 +15,9 @@
 
 <br />
 
-Hey there! I'm RJ, a Computer Science major and Electrical Engineering minor at the University of Florida with a strong interest in full-stack development and cloud computing.
+Hey there! I'm RJ, a Computer Science student at the University of Florida.
 
-I love developing programs that make people's lives easier and making them look good through creative, user-centered design.
-
-I'm always looking to learn something new, grow as a developer, and work on projects that make a difference.
+I specialize in backend engineering and AI/ML, but I'm highly adaptable and always up for a challenge. I love picking up new tools and diving head-first into complex problems.
 
 Feel free to reach out if you want to connect, collaborate, or just chat about tech!
 
