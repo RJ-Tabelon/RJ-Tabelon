@@ -35,8 +35,6 @@ Feel free to reach out if you want to connect, collaborate, or just chat about t
 
 # Tech Stack
 
-## Tech Stack
-
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%232f5f5a.svg?style=for-the-badge&logo=typescript&logoColor=white)
